@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1496853251 source:e:\nguyen phu truong\financial_chua\financial.cpp
+	<algorithm>
+	<iostream>
+	<cstdio>
+	<vector>
+
